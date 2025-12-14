@@ -4,5 +4,6 @@ excerpt: "The standard model from Strong interaction to Electroweak unification 
 collection: Portfolio
 ---
 
-This my final term paper about the Standard Model!
+This my final term paper about the Standard Model! <br>
+
 **[Standard Model](/portfolio/Standard_model.pdf)**
