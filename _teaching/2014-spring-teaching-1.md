@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Classical Mechanics TA"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "National Taiwan University, Physics"
+date: 2024-09-01 to 2024-12-30
+location: "Taipei, Taiwan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is the graduate course of classical mechanics, the goal for students is to understand the basics of classical point particle and field theoretical dynamics. A prerequisite and a corner stone to Relativistic Quantum Field Theory.
 
 Heading 1
 ======
