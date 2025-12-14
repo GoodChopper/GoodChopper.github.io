@@ -12,4 +12,4 @@ This is the graduate course of classical mechanics, the goal for students is to 
 
 My notes:
 ======
-**[Notes on Noether's theorem](/teaching/Noether_s_theorem.pdf)**
+**[Notes on Noether's theorem](/_teaching/Noether_s_theorem.pdf)**
