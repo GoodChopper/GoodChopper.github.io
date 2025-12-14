@@ -6,4 +6,4 @@ collection: Portfolio
 
 This my final term paper about the Standard Model! <br>
 
-**[Standard Model](/portfolio/Standard_model.pdf)**
+**[Standard Model](/_portfolio/Standard_model.pdf)**
