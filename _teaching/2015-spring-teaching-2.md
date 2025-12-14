@@ -1,7 +1,7 @@
 ---
 title: "Classical Mechanics TA"
 collection: teaching
-type: "teaching"
+type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "National Taiwan University, Physics"
 date: 2025-09-01 to 2025-12-30
