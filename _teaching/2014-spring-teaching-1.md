@@ -10,5 +10,6 @@ location: "Taipei, Taiwan"
 
 This is the graduate course of classical mechanics, the goal for students is to understand the basics of classical point particle and field theoretical dynamics. A prerequisite and a corner stone to Relativistic Quantum Field Theory.
 
-My notes on Noether's Theorem:
+My notes:
 ======
+**[Notes on Noether's theorem](/teaching/Noether_s_theorem.pdf)**
