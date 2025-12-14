@@ -2,7 +2,7 @@
 title: "Classical Mechanics TA"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2024-classical-mechanics
 venue: "National Taiwan University, Physics"
 date: 2024-09-01 to 2024-12-30
 location: "Taipei, Taiwan"
