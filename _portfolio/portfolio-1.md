@@ -7,4 +7,4 @@ permalink: /portfolio/2025-qft-term-paper/
 
 This my final term paper about the Standard Model! <br>
 
-**[Standard Model](/_files/Standard_model.pdf)**
+**[Standard Model](/files/Standard_model.pdf)**
