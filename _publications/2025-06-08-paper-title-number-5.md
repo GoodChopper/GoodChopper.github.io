@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'description'
-date: time
+date: 2024-02-17
 venue: 'venue'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Name'
